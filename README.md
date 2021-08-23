@@ -1,2 +1,6 @@
-# NTCP_modelling_head_and_neck
-Notebooks for modelling NTCP in head-and-neck patients
+# NTCP modelling in head-and-neck cancer
+
+Notebooks for modelling Normal Tissue Complication Probability in head-and-neck cancer patients undergoing radiotherapy.
+
+1. [Data cleaning](data_cleaning.ipynb):
+2. 
